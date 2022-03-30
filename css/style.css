@@ -1,0 +1,29 @@
+/* Created by: Anita Kay
+* Created on: Mar 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-05-HTML-Salary
+*/
+
+body {
+	background-color: lightsteelblue;
+}
+
+h1 {
+	background-color: steelblue;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;  
+	color: black;
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: steelblue;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+body, h3 {
+	background-color: lightsteelblue;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color: black;
+}
